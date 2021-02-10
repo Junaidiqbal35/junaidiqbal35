@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Junaidiqbal35/junaidiqbal35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hey, Thanks for visiting my profile page.
 
 - 🔭 I’m currently working on Novam Beats Sale Marketplace project ...
 - 🌱 I’m currently learning  advance things of Django RestFramework...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/junaid-iqbal-864338146/ ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Gaming, Movies ...
--->
+
